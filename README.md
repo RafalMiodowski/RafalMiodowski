@@ -28,5 +28,3 @@ I am a computer science student with a passion for engaging in Data Science. Des
 <br>
 
 ---
-
-A daily enthusiast of Data Science, sports, and automotive. Hobbyist computer science student.

@@ -5,7 +5,7 @@ I am a computer science student with a passion for engaging in Data Science. Des
 ## Connect with me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafa%C5%82-miodowski-2a58a331b/)
 [<img align="left" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100006506763555)
-[<img align="left" alt="X (Twitter)" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)
+[<img align="left" alt="X (Twitter)" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/RafalM25)
 <br>
 
 ## Expertise

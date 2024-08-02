@@ -1,4 +1,4 @@
-# Hello!
+# Hello World!
 
 I am a computer science student with a passion for engaging in Data Science. Despite the many challenges I encounter along the way, I always strive to overcome them and broaden my horizons.
 
@@ -20,6 +20,7 @@ I am a computer science student with a passion for engaging in Data Science. Des
 <img align="left" alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%233370A6.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Seaborn" src="https://img.shields.io/badge/seaborn-%230074A2.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="Mathematical Analysis" src="https://img.shields.io/badge/mathematical%20analysis-%23008CBA.svg?&style=for-the-badge&logo=mathworks&logoColor=white" />
 <img align="left" alt="Algebra" src="https://img.shields.io/badge/algebra-%23E34F26.svg?&style=for-the-badge&logo=algebra&logoColor=white" />
 <img align="left" alt="Algorithms" src="https://img.shields.io/badge/algorithms-%23856BFC.svg?&style=for-the-badge&logo=algorithms&logoColor=white" />

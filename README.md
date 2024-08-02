@@ -3,7 +3,7 @@
 I am a computer science student with a passion for engaging in Data Science. Despite the many challenges I encounter along the way, I always strive to overcome them and broaden my horizons.
 
 ## Connect with me
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafa%C5%82-miodowski-2a58a331b/)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafał-miodowski-2a58a331b/)
 [<img align="left" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100006506763555)
 [<img align="left" alt="X (Twitter)" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/RafalM25)
 <br>
@@ -26,3 +26,7 @@ I am a computer science student with a passion for engaging in Data Science. Des
 <img align="left" alt="Algorithms" src="https://img.shields.io/badge/algorithms-%23856BFC.svg?&style=for-the-badge&logo=algorithms&logoColor=white" />
 <br>
 <br>
+
+---
+
+A daily enthusiast of Data Science, sports, and automotive. Hobbyist computer science student.
